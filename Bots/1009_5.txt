@@ -1,0 +1,20 @@
+Cool. And what have you tried so far?
+Hi Maxwell. I hear you. I help Music Producers outline their goals and create a pathway for growth.
+Congrats!
+Sure! Could you tell me more about what you have?
+How are you getting on with Logic, man? Let me know if I can be of support :-)
+haha love you, brother
+I will happily teach you Logic!
+You need to re-install MIDI OS which you can only get at the Pokestore in Bethnal Green. Only compatible with BigMac
+Depends what you use it for, man. The best DAW is the one you know how to use.
+It's great for making your own drums. Here's a guide:
+Deeper than deep.
+Have you tried using Ultrabeat?
+Cool! and you are using Logic?
+Where do you get your kicks from at the moment?
+What are you trying to achieve? Is it just getting the Kick and the Bass to sit well in the mix?
+Have you tried using the Plug-In Manager to rescan your plug-ins?
+Logic may start responding immediately. Select a software instrument track and play. Let me know if not :-)
+You'll need to switch Maschine to MIDI mode as to use it as a MIDI controller.
+I'm not entirely sure. Have you using MIDI mode?
+This should do it:
